@@ -3,13 +3,16 @@
   <head>
     <title>GlobetranzExpress</title>
     <%= csrf_meta_tags %>
-
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
   </head>
 
-  <body>
-  	<%=render "layouts/nav_bar"%>
-    <%= yield %>
+  <body class="home header-transparent  header-sticky header-v1 hide-topbar-mobile">
+    <div id="page">
+      <div class="preloader" style="display: none;"></div>
+    	<%=render "layouts/nav_bar"%>
+      <%= yield %>
+    </div>
   </body>
 </html>

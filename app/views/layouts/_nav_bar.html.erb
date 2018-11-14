@@ -1,11 +1,13 @@
+<div id="fh-header-minimized" class="fh-header-minimized fh-header-v1" style="height: 111px;"></div>
+<%=render "layouts/p_header"%>
 <header id="masthead" class="site-header clearfix" style="top: 60px;">
     <div class="header-main clearfix">
         <div class="container mobile_relative">
             <div class="row">
                 <div class="site-logo col-md-3 col-sm-6 col-xs-6">
-                    <a href="index.html" class="logo">
-                        <img src="images/logo-light.png" alt="CargoHub" class="logo-light show-logo">
-                        <img src="images/logo.png" alt="CargoHub" class="logo-dark hide-logo">
+                    <a href="/" class="logo">
+                        <%=image_tag "logo-light.png", :alt=>"GlobeTranz", :class=>"logo-light show-logo"%>
+                        <%=image_tag "logo-light.png", :alt=>"GlobeTranz", :class=>"logo-dark hide-logo"%>
                     </a>
                     <h1 class="site-title"><a href="#">CargoHub</a></h1>
                     <h2 class="site-description">Just another Steel Themes Sites site</h2>

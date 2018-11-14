@@ -1,8 +1,8 @@
-(function($) {
+document.addEventListener("turbolinks:load", function() {
 		
 	
 	var mainwindow = $(window);
-	
+	console.log(jQuery("#slider1").length);
     // rev-slider
     if (jQuery("#slider1").length) {
         jQuery("#slider1").revolution({
@@ -617,6 +617,4 @@
   });	  
 	  
 	  
-	  	
-
-})(window.jQuery);
+});

@@ -14,11 +14,11 @@ website:   	http://www.themepunch.com
 
 @font-face {
   font-family: 'revicons';
-  src: url('../../fonts/revicons/revicons.eot');
-  src: url('../../fonts/revicons/revicons.eot?#iefix') format('embedded-opentype'),
-       url('../../fonts/revicons/revicons.woff?') format('woff'),
-       url('../../fonts/revicons/revicons.ttf?') format('truetype'),
-       url('../../fonts/revicons/revicons.svg?#revicons') format('svg');
+  src: url('<%= asset_path("revicons.eot") %>');
+  src: url('<%= asset_path("revicons.eot?#iefix") %>') format('embedded-opentype'),
+       url('<%= asset_path("revicons.woff") %>') format('woff'),
+       url('<%= asset_path("revicons.ttf") %>') format('truetype'),
+       url('<%= asset_path("revicons.svg?#revicons") %>') format('svg');
   font-weight: normal;
   font-style: normal;
 }
