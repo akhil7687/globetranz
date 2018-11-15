@@ -3818,7 +3818,7 @@ website:   	http://www.themepunch.com
     border-style: solid;
     border-width: 2px;
     border-radius: 100px 100px 100px 100px;
-    cursor: pointer
+    cursor: pointer;
 }
 .tp-caption.Agency-SmallText,
 .Agency-SmallText {
@@ -3853,7 +3853,7 @@ website:   	http://www.themepunch.com
     border-style: solid;
     border-width: 2px;
     border-radius: 30px 30px 30px 30px;
-    text-align: center
+    text-align: center;
 }
 .tp-caption.Agency-Social:hover,
 .Agency-Social:hover {
@@ -3864,7 +3864,7 @@ website:   	http://www.themepunch.com
     border-style: solid;
     border-width: 2px;
     border-radius: 30px 30px 30px 30px;
-    cursor: pointer
+    cursor: pointer;
 }
 .tp-caption.Agency-CloseBtn,
 .Agency-CloseBtn {
@@ -3881,7 +3881,7 @@ website:   	http://www.themepunch.com
     border-style: none;
     border-width: 0px;
     border-radius: 100px 100px 100px 100px;
-    text-align: center
+    text-align: center;
 }
 .tp-caption.Agency-CloseBtn:hover,
 .Agency-CloseBtn:hover {
@@ -3892,7 +3892,7 @@ website:   	http://www.themepunch.com
     border-style: none;
     border-width: 0px;
     border-radius: 100px 100px 100px 100px;
-    cursor: pointer
+    cursor: pointer;
 }
 
 .tp-caption.Dining-Title,
@@ -3911,7 +3911,7 @@ website:   	http://www.themepunch.com
     border-width: 0px;
     border-radius: 0 0 0 0px;
     text-align: left;
-    letter-spacing: 10px
+    letter-spacing: 10px;
 }
 .tp-caption.Dining-SubTitle,
 .Dining-SubTitle {
@@ -3928,7 +3928,7 @@ website:   	http://www.themepunch.com
     border-style: none;
     border-width: 0px;
     border-radius: 0 0 0 0px;
-    text-align: left
+    text-align: left;
 }
 .tp-caption.Dining-BtnLight,
 .Dining-BtnLight {
@@ -3946,7 +3946,7 @@ website:   	http://www.themepunch.com
     border-width: 1px;
     border-radius: 0px 0px 0px 0px;
     text-align: left;
-    letter-spacing: 2px
+    letter-spacing: 2px;
 }
 .tp-caption.Dining-BtnLight:hover,
 .Dining-BtnLight:hover {
@@ -3956,7 +3956,7 @@ website:   	http://www.themepunch.com
     border-color: rgba(255, 255, 255, 1.00);
     border-style: solid;
     border-width: 1px;
-    border-radius: 0px 0px 0px 0px
+    border-radius: 0px 0px 0px 0px;
 }
 .tp-caption.Dining-Social,
 .Dining-Social {
@@ -3973,7 +3973,7 @@ website:   	http://www.themepunch.com
     border-style: solid;
     border-width: 1px;
     border-radius: 30px 30px 30px 30px;
-    text-align: center
+    text-align: center;
 }
 .tp-caption.Dining-Social:hover,
 .Dining-Social:hover {
@@ -3984,7 +3984,7 @@ website:   	http://www.themepunch.com
     border-style: solid;
     border-width: 1px;
     border-radius: 30px 30px 30px 30px;
-    cursor: pointer
+    cursor: pointer;
 }
 tp-caption.Team-Thumb,
 .Team-Thumb {
@@ -4001,7 +4001,7 @@ tp-caption.Team-Thumb,
     border-style: none;
     border-width: 0px;
     border-radius: 0 0 0 0px;
-    text-align: left
+    text-align: left;
 }
 .tp-caption.Team-Thumb:hover,
 .Team-Thumb:hover {
@@ -4012,7 +4012,7 @@ tp-caption.Team-Thumb,
     border-style: none;
     border-width: 0px;
     border-radius: 0 0 0 0px;
-    cursor: pointer
+    cursor: pointer;
 }
 .tp-caption.Team-Name,
 .Team-Name {
@@ -4029,7 +4029,7 @@ tp-caption.Team-Thumb,
     border-style: none;
     border-width: 0px;
     border-radius: 0 0 0 0px;
-    text-align: left
+    text-align: left;
 }
 .tp-caption.Team-Position,
 .Team-Position {
@@ -4046,7 +4046,7 @@ tp-caption.Team-Thumb,
     border-style: none;
     border-width: 0px;
     border-radius: 0 0 0 0px;
-    text-align: left
+    text-align: left;
 }
 .tp-caption.Team-Description,
 .Team-Description {
@@ -4063,7 +4063,7 @@ tp-caption.Team-Thumb,
     border-style: none;
     border-width: 0px;
     border-radius: 0 0 0 0px;
-    text-align: left
+    text-align: left;
 }
 .tp-caption.Team-Social,
 .Team-Social {
@@ -4080,7 +4080,7 @@ tp-caption.Team-Thumb,
     border-style: none;
     border-width: 0px;
     border-radius: 0 0 0 0px;
-    text-align: center
+    text-align: center;
 }
 .tp-caption.Team-Social:hover,
 .Team-Social:hover {
@@ -4091,7 +4091,7 @@ tp-caption.Team-Thumb,
     border-style: none;
     border-width: 0px;
     border-radius: 0px 0px 0px 0px;
-    cursor: pointer
+    cursor: pointer;
 }
 
 .tp-caption.VideoControls-Play,
@@ -4109,7 +4109,7 @@ tp-caption.Team-Thumb,
     border-style: solid;
     border-width: 0px;
     border-radius: 100px 100px 100px 100px;
-    text-align: center
+    text-align: center;
 }
 .tp-caption.VideoControls-Play:hover,
 .VideoControls-Play:hover {
@@ -4120,7 +4120,7 @@ tp-caption.Team-Thumb,
     border-style: solid;
     border-width: 0px;
     border-radius: 100px 100px 100px 100px;
-    cursor: pointer
+    cursor: pointer;
 }
 .tp-caption.VideoPlayer-Title,
 .VideoPlayer-Title {
@@ -4138,7 +4138,7 @@ tp-caption.Team-Thumb,
     border-width: 0px;
     border-radius: 0 0 0 0px;
     text-align: left;
-    letter-spacing: 10px
+    letter-spacing: 10px;
 }
 .tp-caption.VideoPlayer-SubTitle,
 .VideoPlayer-SubTitle {
@@ -4155,7 +4155,7 @@ tp-caption.Team-Thumb,
     border-style: none;
     border-width: 0px;
     border-radius: 0 0 0 0px;
-    text-align: center
+    text-align: center;
 }
 .tp-caption.VideoPlayer-Social,
 .VideoPlayer-Social {
@@ -4172,7 +4172,7 @@ tp-caption.Team-Thumb,
     border-style: none;
     border-width: 0px;
     border-radius: 0 0 0 0px;
-    text-align: center
+    text-align: center;
 }
 .tp-caption.VideoPlayer-Social:hover,
 .VideoPlayer-Social:hover {
@@ -4183,7 +4183,7 @@ tp-caption.Team-Thumb,
     border-style: none;
     border-width: 0px;
     border-radius: 0px 0px 0px 0px;
-    cursor: pointer
+    cursor: pointer;
 }
 .tp-caption.VideoControls-Mute,
 .VideoControls-Mute {
@@ -4200,7 +4200,7 @@ tp-caption.Team-Thumb,
     border-style: solid;
     border-width: 0px;
     border-radius: 100px 100px 100px 100px;
-    text-align: center
+    text-align: center;
 }
 .tp-caption.VideoControls-Mute:hover,
 .VideoControls-Mute:hover {
@@ -4211,7 +4211,7 @@ tp-caption.Team-Thumb,
     border-style: solid;
     border-width: 0px;
     border-radius: 100px 100px 100px 100px;
-    cursor: pointer
+    cursor: pointer;
 }
 .tp-caption.VideoControls-Pause,
 .VideoControls-Pause {
@@ -4228,7 +4228,7 @@ tp-caption.Team-Thumb,
     border-style: solid;
     border-width: 0px;
     border-radius: 100px 100px 100px 100px;
-    text-align: center
+    text-align: center;
 }
 .tp-caption.VideoControls-Pause:hover,
 .VideoControls-Pause:hover {
@@ -4239,4 +4239,5 @@ tp-caption.Team-Thumb,
     border-style: solid;
     border-width: 0px;
     border-radius: 100px 100px 100px 100px;
-    cursor: pointer
+    cursor: pointer;
+}
