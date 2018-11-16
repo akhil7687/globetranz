@@ -13,6 +13,9 @@
       <div class="preloader" style="display: none;"></div>
     	<%=render "layouts/nav_bar"%>
       <%= yield %>
+      <%=render "home/footer"%>
     </div>
+    <a id="scroll-top" class="backtotop" href="#page-top"><i class="fa fa-angle-up"></i></a>
+    <%=render "home/mobile_nav"%>
   </body>
 </html>
